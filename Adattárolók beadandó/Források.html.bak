@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Adattárolók - források</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+
+          <h1><a href="Kezdőlap.html">Az <span class="logo_colour">adattárolók, adathordozók</span></a></h1>
+          <h2>Források</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+            <li><a href="Kezdőlap.html">Kezdőlap</a></li>
+          <li><a href="A háttértárakról.html">Az adattárolókról</a></li>
+          <li><a href="HDD és az SSD.html">HDD és az SSD</a></li>
+          <li><a href="Források.html">Források</a></li>
+          <li><a href="keress meg.html">Keress meg</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+      </div>
+      <div id="content">
+        <h1>Források</h1>
+         <p><a href="https://hu.wikipedia.org/wiki/Lyukk%C3%A1rtya">Lyukkártya</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/Optikai_adatt%C3%A1rol%C3%B3k">Optikai adattárolók</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/MultiMediaCard">MultiMediaCard</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/XD-Picture_Card">xD-Picture card</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/Memory_Stick">Memory Stick</a></p>
+		<p><a href="https://en.wikipedia.org/wiki/SD_card">SD Card</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/CompactFlash">CompactFlash</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/CD">CD</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/DVD">DVD</a></p>
+		<p><a href="https://hu.wikipedia.org/wiki/Pendrive">Pendrive</a></p>
+		<p> <a href="pdf/adattarolok.pdf" align=center download>Feldolgozott anyag pdf formátumban való letöltése</a><p>
+      </div>
+    </div>
+	<div class="cleaner">&nbsp;</div>
+  </div>
+</div>
+<div align=center>Az oldalt készítette: Horváth Gábor</div></body>
+</body>
+</html>
